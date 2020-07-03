@@ -127,7 +127,7 @@ header {
   display: none;
 }
 
-.lesson-wrapper {
+.tour-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -145,16 +145,16 @@ header {
   font-weight: normal;
 }
 
-.lesson {
+.tour {
   float: left;
   width: 25%;
 }
 
-.lesson-icon {
+.tour-icon {
   position: relative;
 }
 
-.lesson-icon p {
+.tour-icon p {
   position: absolute;
   top: 44%;
   width: 100%;
