@@ -156,15 +156,15 @@ header {
 
 .tour-icon p {
   position: absolute;
-  top: 44%;
+  top: 95%;
   width: 100%;
-  color: white;
+  color: black;
 }
 
 .text-contents {
-  width: 80%;
+  width: 78%;
   display: inline-block;
-  margin-top: 15px;
+  margin-top: 30px;
   font-size: 15px;
   color: #b3aeb5;
 }
