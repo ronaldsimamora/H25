@@ -84,7 +84,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: rgb(57, 122, 172);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -174,16 +174,16 @@ header {
 }
 
 .message-wrapper {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid rgb(69, 61, 189);
   padding-bottom: 80px;
   text-align: center;
 }
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: rgb(57, 122, 172);
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 7px #1a3870;
 }
 
 .message:active {
@@ -204,4 +204,28 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  
+}
+
+
+footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 170px;
+  padding: 24px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 18px;
+  list-style: none;
+  
 }
